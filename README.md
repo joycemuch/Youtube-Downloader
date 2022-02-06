@@ -1,4 +1,4 @@
-# Youtube-Downloader
+# Youtube video-Downloader
 A simple youtube downloader for desktop applications
 ### Requirements
 ---------------------
